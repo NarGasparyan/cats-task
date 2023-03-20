@@ -1,0 +1,26 @@
+.buttoncss {
+    
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #444;
+    line-height: 1.3;
+    padding: 0.6em 1.4em 0.5em 0.8em;
+    width: 100%;
+    max-width: 100%;
+  
+    margin-bottom: 10px;
+  
+  
+    border: 1px solid #aaa;
+    border-radius: 0.5em;
+    box-shadow: 0 1px 0 1px rgb(0 0 0 / 4%);
+    -webkit-appearance: none;
+    appearance: none;
+    cursor: pointer;
+    place-content: center;
+  }
+  
+  .buttontCss:hover {
+    border-color: #888;
+  }
